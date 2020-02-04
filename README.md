@@ -1,4 +1,3 @@
-# anource.github.io
-Hello world!
+# Drone simulator 3D
 
 На этой странице будет гайд по симулятору.
