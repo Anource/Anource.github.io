@@ -1,2 +1,4 @@
 # anource.github.io
-Hello there!
+Hello world!
+
+На этой странице будет гайд по симулятору.
